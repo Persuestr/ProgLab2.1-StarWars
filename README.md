@@ -1,10 +1,5 @@
-# ProgLab2.1-StarWars
-Programming Lab 2 Project 1 Star Wars Game
-#UNFINISHED PROJECT 
-STAR WARS
-Bu readme.txt dosyası, Star Wars projesine aittir.
-Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
-
+# ProgLab2.1-StarWars (UNFINISHED PROJECT )
+Programming Lab 2 Project 1 Star Wars GameSTAR WARS
 
 1-PAKETİN İÇERİĞİ:
 ----------
@@ -13,7 +8,6 @@ readme.txt - Bu dosya.
 kaynak.zip - Projenin kaynak kodunun ve yardımcı dosyaların ziplenmiş hali.
 rapor.docx - Proje raporu.
 ----------
-
 
 2-SİSTEM GEREKSİNİMLERİ:
 -------------------
